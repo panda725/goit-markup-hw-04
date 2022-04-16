@@ -156,6 +156,9 @@ ul {
 }
 
 .hero-title {
+  width: 696px;
+  margin-right: auto;
+  margin-left: auto;
   margin-bottom: 30px;
 
   font-weight: 900;
@@ -423,7 +426,6 @@ ul {
 
 .block-cards .card-items {
   width: 370px;
-  /* !! width: calc((100%-60px) / 3); */
   margin-right: 30px;
   margin-bottom: 30px;
 }
